@@ -1,0 +1,6 @@
+Message sent: gets key1 key2
+Received: VALUE key1 0 6 1
+value1
+Received: VALUE key2 0 6 2
+value2
+Test succesful!
