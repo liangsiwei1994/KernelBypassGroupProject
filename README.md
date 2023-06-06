@@ -23,3 +23,7 @@ In a third terminal window, edit ```./scripts/create-client-1.sh``` to ```get```
 In a fourth terminal window, edit ```./scripts/create-client-2.sh```, to ```get``` any number of the specified keys, and run it. This will create our second client.
 
 We expect each client to display the requested values.
+
+# Acknowledgements
+
+This is a collaborative effort between Ethan Sim, Christopher Adnel, Alvin Jonathan, Brendan Cheu and Liang Si Wei which is supervised by Dr. Marios Kogias of Imperial College London (MSc Computing 2022-2023).
